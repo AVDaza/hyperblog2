@@ -10,5 +10,6 @@ En este curso veremos de todo:
 - Trucos muy locos del profesor
 - Creado por el increible Abel
 - Incluye ejemplo en Linux, Windows y Mac
+- Disponible para todas las edades.
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y [mejor ve a ver el curso](https://platzi.com/cursos/gitgithub/ "mejor ve a ver el curso")
