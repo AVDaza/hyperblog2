@@ -8,5 +8,6 @@ En este curso veremos de todo:
 - El flujo de trabajo de Github
 - El verdadero amor por la buenas prácticas
 - Trucos muy locos del profesor
+- Creado por el increible Abel
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y [mejor ve a ver el curso](https://platzi.com/cursos/gitgithub/ "mejor ve a ver el curso")
